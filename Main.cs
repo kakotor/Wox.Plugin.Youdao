@@ -28,7 +28,7 @@ namespace Wox.Plugin.Youdao
 
     public class Main : IPlugin
     {
-        private const string TranslateUrl = "http://fanyi.youdao.com/openapi.do?keyfrom=WoxLauncher&key=1247918016&type=data&doctype=json&version=1.1&q=";
+        private const string TranslateUrl = "http://fanyi.youdao.com/openapi.do?keyfrom=MY-WOX-plugin&key=597284833&type=data&doctype=json&version=1.1&q=";
         private PluginInitContext _context;
 
         public List<Result> Query(Query query)
